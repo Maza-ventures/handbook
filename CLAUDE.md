@@ -1,4 +1,4 @@
-# Mintlify documentation
+# Handbook documentation
 
 ## Working relationship
 - You can push back on ideas-this can lead to better documentation. Cite sources and explain your reasoning when you do so
@@ -28,6 +28,7 @@
 
 ## Writing standards
 - Second-person voice ("you")
+- Write in the style of Paul Graham
 - Prerequisites at start of procedural content
 - Test all code examples before publishing
 - Match style and formatting of existing pages

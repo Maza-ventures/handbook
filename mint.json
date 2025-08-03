@@ -24,32 +24,20 @@
   },
   "tabs": [
     {
-      "name": "Essentials",
-      "url": "essentials"
+      "name": "About",
+      "url": "about"
     },
     {
-      "name": "Fundamentals", 
-      "url": "fundamentals"
+      "name": "Foundation",
+      "url": "foundation"
     },
     {
-      "name": "SaaS",
-      "url": "saas"
+      "name": "Execution", 
+      "url": "execution"
     },
     {
-      "name": "AI",
-      "url": "ai"
-    },
-    {
-      "name": "Infrastructure",
-      "url": "infrastructure"
-    },
-    {
-      "name": "Robotics",
-      "url": "robotics"
-    },
-    {
-      "name": "Fintech",
-      "url": "fintech"
+      "name": "Growth",
+      "url": "growth"
     }
   ],
   "anchors": [
@@ -57,73 +45,37 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Before you start",
       "pages": [
-        "introduction",
-        "quickstart"
+        "about/introduction",
+        "about/quickstart"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Foundation",
       "pages": [
-        "essentials/ideas",
-        "essentials/founders",
-        "essentials/timing",
-        "essentials/execution"
+        "foundation/ideas",
+        "foundation/team",
+        "foundation/business-model",
+        "foundation/legal",
+        "foundation/market"
       ]
     },
     {
-      "group": "Fundamentals",
+      "group": "Execution",
       "pages": [
-        "fundamentals/building",
-        "fundamentals/users",
-        "fundamentals/growth",
-        "fundamentals/fundraising"
+        "execution/product",
+        "execution/customers",
+        "execution/operations",
+        "execution/metrics"
       ]
     },
     {
-      "group": "SaaS Startups",
+      "group": "Growth",
       "pages": [
-        "saas/overview",
-        "saas/product-market-fit",
-        "saas/metrics",
-        "saas/scaling"
-      ]
-    },
-    {
-      "group": "AI Startups", 
-      "pages": [
-        "ai/overview",
-        "ai/data-moats",
-        "ai/compute",
-        "ai/talent"
-      ]
-    },
-    {
-      "group": "Infrastructure",
-      "pages": [
-        "infrastructure/overview",
-        "infrastructure/developer-tools",
-        "infrastructure/platforms",
-        "infrastructure/enterprise"
-      ]
-    },
-    {
-      "group": "Robotics",
-      "pages": [
-        "robotics/overview", 
-        "robotics/hardware",
-        "robotics/software",
-        "robotics/market-timing"
-      ]
-    },
-    {
-      "group": "Fintech",
-      "pages": [
-        "fintech/overview",
-        "fintech/regulation",
-        "fintech/trust",
-        "fintech/unit-economics"
+        "growth/fundraising",
+        "growth/scaling",
+        "growth/exit"
       ]
     }
   ],
