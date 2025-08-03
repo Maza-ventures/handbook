@@ -1,0 +1,135 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "The Pragmatic Startup Guide",
+  "logo": {
+    "dark": "/box-logo-black.svg",
+    "light": "/box-logo.svg"
+  },
+  "favicon": "/box-logo.svg",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373",
+    "anchors": {
+      "from": "#0D9373",
+      "to": "#07C983"
+    }
+  },
+  "topbarLinks": [
+    
+  ],
+  "topbarCtaButton": {
+    "name": "Maza Ventures",
+    "url": "https://www.maza.vc"
+  },
+  "tabs": [
+    {
+      "name": "Essentials",
+      "url": "essentials"
+    },
+    {
+      "name": "Fundamentals", 
+      "url": "fundamentals"
+    },
+    {
+      "name": "SaaS",
+      "url": "saas"
+    },
+    {
+      "name": "AI",
+      "url": "ai"
+    },
+    {
+      "name": "Infrastructure",
+      "url": "infrastructure"
+    },
+    {
+      "name": "Robotics",
+      "url": "robotics"
+    },
+    {
+      "name": "Fintech",
+      "url": "fintech"
+    }
+  ],
+  "anchors": [
+    
+  ],
+  "navigation": [
+    {
+      "group": "Get Started",
+      "pages": [
+        "introduction",
+        "quickstart"
+      ]
+    },
+    {
+      "group": "Essentials",
+      "pages": [
+        "essentials/ideas",
+        "essentials/founders",
+        "essentials/timing",
+        "essentials/execution"
+      ]
+    },
+    {
+      "group": "Fundamentals",
+      "pages": [
+        "fundamentals/building",
+        "fundamentals/users",
+        "fundamentals/growth",
+        "fundamentals/fundraising"
+      ]
+    },
+    {
+      "group": "SaaS Startups",
+      "pages": [
+        "saas/overview",
+        "saas/product-market-fit",
+        "saas/metrics",
+        "saas/scaling"
+      ]
+    },
+    {
+      "group": "AI Startups", 
+      "pages": [
+        "ai/overview",
+        "ai/data-moats",
+        "ai/compute",
+        "ai/talent"
+      ]
+    },
+    {
+      "group": "Infrastructure",
+      "pages": [
+        "infrastructure/overview",
+        "infrastructure/developer-tools",
+        "infrastructure/platforms",
+        "infrastructure/enterprise"
+      ]
+    },
+    {
+      "group": "Robotics",
+      "pages": [
+        "robotics/overview", 
+        "robotics/hardware",
+        "robotics/software",
+        "robotics/market-timing"
+      ]
+    },
+    {
+      "group": "Fintech",
+      "pages": [
+        "fintech/overview",
+        "fintech/regulation",
+        "fintech/trust",
+        "fintech/unit-economics"
+      ]
+    }
+  ],
+  "footerSocials": {
+    "x": "https://x.com/tambi_jalouqa",
+    "github": "https://github.com/Maza-ventures",
+    "linkedin": "https://www.linkedin.com/company/maza-ventures"
+  }
+}
