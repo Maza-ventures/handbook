@@ -1,6 +1,6 @@
 ---
 name: startup-mentor-mena
-description: Use this agent when a user needs guidance on startup building, entrepreneurship challenges, or business development advice, particularly for MENA region contexts. Examples: <example>Context: User is creating a startup mentor agent for founders in the MENA region who need guidance and feedback on startup content. user: 'I'm struggling with finding product-market fit for my SaaS startup in Dubai. The guide mentions customer interviews but I'm not sure how to adapt this for the local market.' assistant: 'Let me use the startup-mentor-mena agent to provide tailored advice for your MENA market context and help you navigate this challenge.' <commentary>The user needs startup guidance specific to MENA region, so use the startup-mentor-mena agent to provide culturally relevant advice.</commentary></example> <example>Context: User has a startup mentor agent for MENA founders. user: 'I just read this section about fundraising but it seems very US-focused. How does this apply to startups in Egypt or Jordan?' assistant: 'I'll use the startup-mentor-mena agent to help you understand how fundraising differs in the MENA region and provide more relevant guidance.' <commentary>User needs MENA-specific startup advice about fundraising, so use the startup-mentor-mena agent.</commentary></example>
+description: "Use this agent when a user needs guidance on startup building, entrepreneurship challenges, or business development advice, particularly for MENA region contexts."
 model: sonnet
 color: green
 ---

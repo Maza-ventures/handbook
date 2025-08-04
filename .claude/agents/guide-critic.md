@@ -1,6 +1,6 @@
 ---
 name: guide-critic
-description: Use this agent when you need critical review and improvement suggestions for documentation content, particularly after writing or editing guide sections. Examples: <example>Context: User has just added a new section to the documentation about API authentication. user: 'I just added a section explaining how to authenticate with our API. Here's what I wrote: [content]' assistant: 'Let me use the guide-critic agent to review this new authentication section and suggest improvements.' <commentary>Since the user has added new documentation content, use the guide-critic agent to provide critical review and suggestions for improvement in Paul Graham's style.</commentary></example> <example>Context: User is considering adding a complex technical explanation to the guide. user: 'Should I add this detailed explanation about webhook payload validation to the guide?' assistant: 'I'll use the guide-critic agent to evaluate whether this addition aligns with our guide's principles and suggest how to approach it.' <commentary>The user is asking about potential content additions, so use the guide-critic agent to critique the proposal and suggest better approaches.</commentary></example>
+description: "Use this agent when you need critical review and improvement suggestions for documentation content, particularly after writing or editing guide sections."
 model: sonnet
 color: red
 ---

@@ -6,6 +6,7 @@
     "light": "/box-logo.svg"
   },
   "favicon": "/box-logo.svg",
+  
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -15,6 +16,7 @@
       "to": "#07C983"
     }
   },
+  "description": "A handbook for startups in the MENA region",
   "topbarLinks": [
     
   ],
@@ -28,16 +30,16 @@
       "url": "about"
     },
     {
-      "name": "Foundation",
-      "url": "foundation"
+      "name": "How to Build",
+      "url": "build"
     },
     {
-      "name": "Execution", 
-      "url": "execution"
+      "name": "Tools & Resources", 
+      "url": "tools"
     },
     {
-      "name": "Growth",
-      "url": "growth"
+      "name": "Signals vs Noise",
+      "url": "signals"
     }
   ],
   "anchors": [
@@ -45,37 +47,86 @@
   ],
   "navigation": [
     {
-      "group": "Before you start",
+      "group": "Why This Handbook Exists",
       "pages": [
         "about/introduction",
-        "about/quickstart"
+        "about/how-to-use",
+        "about/disclosure"
       ]
     },
     {
-      "group": "Foundation",
+      "group": "What Actually Matters",
       "pages": [
-        "foundation/ideas",
-        "foundation/team",
-        "foundation/business-model",
-        "foundation/legal",
-        "foundation/market"
+        "build/what-matters/good-ideas",
+        "build/what-matters/distribution-beats-features", 
+        "build/what-matters/fundraising-not-success",
+        "build/what-matters/local-hacks",
+        "build/what-matters/real-risks"
       ]
     },
     {
-      "group": "Execution",
+      "group": "Starting Up in the Real World", 
       "pages": [
-        "execution/product",
-        "execution/customers",
-        "execution/operations",
-        "execution/metrics"
+        "build/starting-up/company-setup",
+        "build/starting-up/first-team",
+        "build/starting-up/building-what-people-want",
+        "build/starting-up/signal-vs-noise"
       ]
     },
     {
-      "group": "Growth",
+      "group": "Raising Money Without Selling Your Soul",
       "pages": [
-        "growth/fundraising",
-        "growth/scaling",
-        "growth/exit"
+        "build/raising-money/what-investors-want",
+        "build/raising-money/safe-notes-sharia",
+        "build/raising-money/avoiding-deadweight-capital", 
+        "build/raising-money/raising-abroad"
+      ]
+    },
+    {
+      "group": "Going from Local to Global",
+      "pages": [
+        "build/going-global/solving-for-your-market-trap",
+        "build/going-global/breaking-out",
+        "build/going-global/speaking-worlds-language",
+        "build/going-global/immigration-relocation",
+        "build/going-global/exit-paths"
+      ]
+    },
+    {
+      "group": "What You Need Now",
+      "pages": [
+        "tools/essential-setup",
+        "tools/avoiding-early-mistakes"
+      ]
+    },
+    {
+      "group": "When You Raise Money",
+      "pages": [
+        "tools/legal-requirements",
+        "tools/financial-infrastructure"
+      ]
+    },
+    {
+      "group": "When You Have Employees",
+      "pages": [
+        "tools/hiring-decisions",
+        "tools/team-operations"
+      ]
+    },
+    {
+      "group": "Reading Reality",
+      "pages": [
+        "signals/user-feedback-loops",
+        "signals/what-to-ignore",
+        "signals/simple-experiments"
+      ]
+    },
+    {
+      "group": "Decision Moments",
+      "pages": [
+        "signals/when-to-raise",
+        "signals/when-to-pivot",
+        "signals/when-to-ignore-advice"
       ]
     }
   ],
