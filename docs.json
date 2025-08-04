@@ -1,0 +1,162 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+  "name": "The Pragmatic MENA Startup Handbook",
+  "logo": {
+    "dark": "/box-logo-black.svg",
+    "light": "/box-logo.svg",
+    "text": "The Pragmatic MENA Startup Handbook"
+  },
+  "favicon": "/box-logo.svg",
+  "topbar": {
+    "style": "default"
+  },
+  "navbar": {
+    "logo": {
+      "dark": "/box-logo-black.svg",
+      "light": "/box-logo.svg"
+    },
+    "primary":{
+      "type": "button",
+      "label": "Maza Ventures",
+      "href": "https://www.maza.vc"
+    },
+    "links": [
+      {
+        "label": "Github",
+        "href": "https://github.com/Maza-ventures/handbook",
+        "icon": "github"
+      }
+    ]
+  },
+  "theme": "mint",
+  
+  
+  "navigation": { 
+    "tabs": [
+      {
+        "tab": "About",
+        "groups": [
+          {
+            "group": "Why This Handbook Exists",
+            "pages": [
+              "about/introduction",
+              "about/how-to-use",
+              "about/disclosure"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "How to Build",
+        "groups": [
+          {
+            "group": "What Actually Matters",
+            "pages": [
+              "build/what-matters/good-ideas",
+              "build/what-matters/distribution-beats-features",
+              "build/what-matters/fundraising-not-success",
+              "build/what-matters/local-hacks",
+              "build/what-matters/real-risks"
+            ]
+          },
+          {
+            "group": "Starting Up in the Real World",
+            "pages": [
+              "build/starting-up/company-setup",
+              "build/starting-up/first-team",
+              "build/starting-up/building-what-people-want",
+              "build/starting-up/signal-vs-noise"
+            ]
+          },
+          {
+            "group": "Raising Money Without Selling Your Soul",
+            "pages": [
+              "build/raising-money/what-investors-want",
+              "build/raising-money/safe-notes-sharia",
+              "build/raising-money/avoiding-deadweight-capital",
+              "build/raising-money/raising-abroad"
+            ]
+          },
+          {
+            "group": "Going from Local to Global",
+            "pages": [
+              "build/going-global/solving-for-your-market-trap",
+              "build/going-global/breaking-out",
+              "build/going-global/speaking-worlds-language",
+              "build/going-global/immigration-relocation",
+              "build/going-global/exit-paths"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Tools & Resources",
+        "groups": [
+          {
+            "group": "Essential Setup",
+            "pages": [
+              "tools/essential-setup",
+              "tools/avoiding-early-mistakes"
+            ]
+          },
+          {
+            "group": "Legal & Financial Infrastructure",
+            "pages": [
+              "tools/legal-requirements",
+              "tools/legal-forms",
+              "tools/lawyers-accountants",
+              "tools/financial-infrastructure",
+              "tools/banking-finance"
+            ]
+          },
+          {
+            "group": "Funding & Investment",
+            "pages": [
+              "tools/investor-database",
+              "tools/alternative-funding",
+              "tools/government-programs"
+            ]
+          },
+          {
+            "group": "Team Building",
+            "pages": [
+              "tools/hiring-decisions",
+              "tools/remote-hiring",
+              "tools/job-boards",
+              "tools/team-operations",
+              "tools/universities"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Signals vs Noise",
+        "groups": [
+          {
+            "group": "Reading Reality",
+            "pages": [
+              "signals/user-feedback-loops",
+              "signals/what-to-ignore",
+              "signals/simple-experiments"
+            ]
+          },
+          {
+            "group": "Decision Moments",
+            "pages": [
+              "signals/when-to-raise",
+              "signals/when-to-pivot",
+              "signals/when-to-ignore-advice",
+              "signals/exit-activity"
+            ]
+          }
+        ]
+      }
+    ]
+  
+  },
+  "footerSocials": {
+    "x": "https://x.com/tambi_jalouqa",
+    "github": "https://github.com/Maza-ventures",
+    "linkedin": "https://www.linkedin.com/company/maza-ventures"
+  }
+}
