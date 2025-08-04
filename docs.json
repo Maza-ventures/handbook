@@ -7,9 +7,6 @@
     "text": "The Pragmatic MENA Startup Handbook"
   },
   "favicon": "/box-logo.svg",
-  "topbar": {
-    "style": "default"
-  },
   "navbar": {
     "logo": {
       "dark": "/box-logo-black.svg",
@@ -23,18 +20,22 @@
     "links": [
       {
         "label": "Github",
-        "href": "https://github.com/Maza-ventures/handbook",
-        "icon": "github"
+        "href": "https://github.com/Maza-ventures/handbook"
       }
     ]
   },
   "theme": "mint",
-  
-  
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373"
+  },
+ 
   "navigation": { 
     "tabs": [
       {
         "tab": "About",
+        
         "groups": [
           {
             "group": "Why This Handbook Exists",
@@ -83,8 +84,7 @@
               "build/going-global/solving-for-your-market-trap",
               "build/going-global/breaking-out",
               "build/going-global/speaking-worlds-language",
-              "build/going-global/immigration-relocation",
-              "build/going-global/exit-paths"
+              "build/going-global/immigration-relocation"
             ]
           }
         ]
