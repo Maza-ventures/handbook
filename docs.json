@@ -83,7 +83,6 @@
             "pages": [
               "build/going-global/solving-for-your-market-trap",
               "build/going-global/breaking-out",
-              "build/going-global/speaking-worlds-language",
               "build/going-global/immigration-relocation"
             ]
           }
@@ -107,14 +106,6 @@
               "tools/lawyers-accountants",
               "tools/financial-infrastructure",
               "tools/banking-finance"
-            ]
-          },
-          {
-            "group": "Funding & Investment",
-            "pages": [
-              "tools/investor-database",
-              "tools/alternative-funding",
-              "tools/government-programs"
             ]
           },
           {
