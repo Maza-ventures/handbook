@@ -66,6 +66,7 @@
               "build/starting-up/company-setup",
               "build/starting-up/first-team",
               "build/what-matters/embracing-ai",
+              "build/starting-up/taking-care-of-mindset",
               "build/starting-up/building-what-people-want",
               "build/starting-up/signal-vs-noise"
             ]
@@ -75,7 +76,6 @@
             "pages": [
               "build/raising-money/what-investors-want",
               "build/raising-money/picking-right-valuation",
-              "build/raising-money/avoiding-deadweight-capital",
               "build/raising-money/raising-abroad"
             ]
           },
@@ -113,7 +113,6 @@
               "tools/legal-requirements",
               "tools/legal-forms",
               "tools/lawyers-accountants",
-              "tools/financial-infrastructure",
               "tools/banking-finance"
             ]
           },
