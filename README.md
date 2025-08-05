@@ -1,6 +1,6 @@
 # The Pragmatic MENA Startup Handbook
 
-A practical guide for MENA founders building global software products. Written in the style of Paul Graham with regional context and real-world advice.
+A practical guide for MENA founders building global software products. Heavily inspired by Paul Graham with regional context and real-world advice.
 
 ## About This Handbook
 
@@ -82,9 +82,8 @@ We welcome contributions from MENA founders, investors, and ecosystem builders w
 
 1. **Fork the repository**
 2. **Read existing content** to understand voice and structure
-3. **Check CLAUDE.md** for detailed writing guidelines
-4. **Create focused pull requests** (one topic per PR)
-5. **Include context** in your PR description about your experience with the topic
+3. **Create focused pull requests** (one topic per PR)
+4. **Include context** in your PR description about your experience with the topic
 
 ### What We Don't Accept
 
