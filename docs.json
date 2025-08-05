@@ -84,6 +84,7 @@
             "pages": [
               "build/going-global/solving-for-your-market-trap",
               "build/going-global/breaking-out",
+              "build/going-global/home-vs-away-revenue",
               "build/going-global/immigration-relocation"
             ]
           },
@@ -148,6 +149,14 @@
               "signals/what-to-ignore",
               "signals/simple-experiments",
               "signals/exit-activity"
+            ]
+          },
+          {
+            "group": "Ecosystem Navigation",
+            "pages": [
+              "signals/avoiding-vanity-metrics",
+              "signals/navigating-mandated-funds",
+              "signals/avoiding-ecosystem-cannon-fodder"
             ]
           }
         ]
