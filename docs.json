@@ -22,7 +22,8 @@
   "navbar": {
     "logo": {
       "dark": "/box-logo-black.svg",
-      "light": "/box-logo.svg"
+      "light": "/box-logo.svg",
+      "text": "The Pragmatic MENA Startup Handbook"
     },
     "primary":{
       "type": "button",
