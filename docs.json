@@ -6,6 +6,18 @@
     "light": "/box-logo.svg",
     "text": "The Pragmatic MENA Startup Handbook"
   },
+  "head": [
+  {
+    "tag": "script",
+    "attributes": {
+      "src": "https://cdn.databuddy.cc/databuddy.js",
+      "data-client-id": "2ewC6t0-12jEjzc0EIYnn",
+      "data-enable-batching": "true",
+      "crossorigin": "anonymous",
+      "async": true
+    }
+  }
+],
   "favicon": "/box-logo.svg",
   "navbar": {
     "logo": {
