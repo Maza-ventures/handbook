@@ -162,6 +162,7 @@
               "signals/user-feedback-loops",
               "signals/what-to-ignore",
               "signals/simple-experiments",
+              "signals/measuring-competitiveness",
               "signals/exit-activity"
             ]
           },
