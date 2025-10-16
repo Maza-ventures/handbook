@@ -134,6 +134,7 @@
           {
             "group": "Funding Options",
             "pages": [
+              "tools/angel-investors",
               "tools/mena-vcs",
               "tools/government-programs"
             ]
